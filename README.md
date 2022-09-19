@@ -11,7 +11,7 @@ with others in the lab.
 
 ### [`bash`](bash/README.md)
 
-### [`git`](git/README.md)
+### [Version control with `git`](git/README.md)
 
 ### [SLURM](slurm/README.md)
 
