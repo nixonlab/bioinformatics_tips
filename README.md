@@ -15,4 +15,4 @@ with others in the lab.
 
 ### [SLURM](slurm/README.md)
 
-
+### [conda](conda/README.md)
