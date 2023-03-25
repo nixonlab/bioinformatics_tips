@@ -29,4 +29,19 @@ mamba create -n ngsutils\
  minimap2
 ``` 
 
+Python environment with `scanpy`, `scvelo`, `cellrank` and other single-cell packages
 
+```
+mamba create -n scvelo\
+  scanpy\
+  anndata\
+  scipy\
+  numpy\
+  pandas\
+  matplotlib\
+  basemap\
+  scikit-learn\
+  umap-learn\
+  seaborn\
+  cellrank
+```
