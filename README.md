@@ -16,3 +16,7 @@ with others in the lab.
 ### [SLURM](slurm/README.md)
 
 ### [conda](conda/README.md)
+
+### [jupyter](jupyter/README.md)
+
+  +  [Setup jupyter on AWS](jupyter/setup_AWS.md)
