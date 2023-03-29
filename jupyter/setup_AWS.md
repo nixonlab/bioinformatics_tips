@@ -21,9 +21,9 @@ conda activate jupyterlab
 jupyter-lab --no-browser --port 8889
 ```
 
->  **IMPORTANT** Make sure no one else is using the same port number. You can do something like this:
+**IMPORTANT** Make sure no one else is using the same port number. You can do something like this:
 
-> ```bash
+```bash
 jlport=6${UID}
 jupyter-lab --no-browser --port $jlport
 ```
